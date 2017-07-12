@@ -1,0 +1,5 @@
+C:\Users\asad_\Desktop\BounceEmailTracker\BounceEmailTracker\BounceEmailTracker.Web.Pop3\BounceEmailTracker.Web.Pop3\bin\Debug\BounceEmailTracker.Web.Pop3.dll
+C:\Users\asad_\Desktop\BounceEmailTracker\BounceEmailTracker\BounceEmailTracker.Web.Pop3\BounceEmailTracker.Web.Pop3\bin\Debug\BounceEmailTracker.Web.Pop3.pdb
+C:\Users\asad_\Desktop\BounceEmailTracker\BounceEmailTracker\BounceEmailTracker.Web.Pop3\BounceEmailTracker.Web.Pop3\obj\Debug\BounceEmailTracker.Web.Pop3.csprojResolveAssemblyReference.cache
+C:\Users\asad_\Desktop\BounceEmailTracker\BounceEmailTracker\BounceEmailTracker.Web.Pop3\BounceEmailTracker.Web.Pop3\obj\Debug\BounceEmailTracker.Web.Pop3.dll
+C:\Users\asad_\Desktop\BounceEmailTracker\BounceEmailTracker\BounceEmailTracker.Web.Pop3\BounceEmailTracker.Web.Pop3\obj\Debug\BounceEmailTracker.Web.Pop3.pdb

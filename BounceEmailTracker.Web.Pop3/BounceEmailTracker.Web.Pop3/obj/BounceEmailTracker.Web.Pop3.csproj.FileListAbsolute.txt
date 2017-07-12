@@ -1,0 +1,10 @@
+C:\Users\asaduzzaman\Desktop\BounceEmailTracker\BounceEmailTracker.Web.Pop3\BounceEmailTracker.Web.Pop3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\asaduzzaman\Desktop\BounceEmailTracker\BounceEmailTracker.Web.Pop3\BounceEmailTracker.Web.Pop3\bin\Debug\BounceEmailTracker.Web.Pop3.dll
+C:\Users\asaduzzaman\Desktop\BounceEmailTracker\BounceEmailTracker.Web.Pop3\BounceEmailTracker.Web.Pop3\bin\Debug\BounceEmailTracker.Web.Pop3.pdb
+C:\Users\asaduzzaman\Desktop\BounceEmailTracker\BounceEmailTracker.Web.Pop3\BounceEmailTracker.Web.Pop3\obj\Debug\BounceEmailTracker.Web.Pop3.dll
+C:\Users\asaduzzaman\Desktop\BounceEmailTracker\BounceEmailTracker.Web.Pop3\BounceEmailTracker.Web.Pop3\obj\Debug\BounceEmailTracker.Web.Pop3.pdb
+E:\Asad\TBR\BounceEmailTracker\BounceEmailTracker\BounceEmailTracker.Web.Pop3\BounceEmailTracker.Web.Pop3\bin\Debug\BounceEmailTracker.Web.Pop3.dll
+E:\Asad\TBR\BounceEmailTracker\BounceEmailTracker\BounceEmailTracker.Web.Pop3\BounceEmailTracker.Web.Pop3\bin\Debug\BounceEmailTracker.Web.Pop3.pdb
+E:\Asad\TBR\BounceEmailTracker\BounceEmailTracker\BounceEmailTracker.Web.Pop3\BounceEmailTracker.Web.Pop3\obj\Debug\ResolveAssemblyReference.cache
+E:\Asad\TBR\BounceEmailTracker\BounceEmailTracker\BounceEmailTracker.Web.Pop3\BounceEmailTracker.Web.Pop3\obj\Debug\BounceEmailTracker.Web.Pop3.dll
+E:\Asad\TBR\BounceEmailTracker\BounceEmailTracker\BounceEmailTracker.Web.Pop3\BounceEmailTracker.Web.Pop3\obj\Debug\BounceEmailTracker.Web.Pop3.pdb
